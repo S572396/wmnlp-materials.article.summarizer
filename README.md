@@ -1,7 +1,34 @@
 # Final Project: Article Summarizer
+### SANDRA RUIZ
+#### URL: https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html
 
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
+
+### Pre Set Up Cell:
+##### Create and activate a Python virtual environment. 
+###### Before starting the project, try all these imports FIRST
+###### Address any errors you get running this code cell 
+###### by installing the necessary packages into your active Python environment.
+##### Try to resolve issues using your materials and the web.
+###### If that doesn't work, ask for help in the discussion forums.
+###### You can't complete the exercises until you import these - start early! 
+###### We also import pickle and Counter (included in the Python Standard Library).
+
+
+%pip install matplotlib
+!pip install spacy
+from collections import Counter
+import pickle
+import requests
+import spacy
+from bs4 import BeautifulSoup
+import matplotlib.pyplot as plt
+
+# List installed packages
+!pip list
+
+print('All prereqs installed.')***Sucessful
 
 ## Rubric
 
