@@ -30,6 +30,11 @@ import matplotlib.pyplot as plt
 
 print('All prereqs installed.')***Sucessful
 
+#### Question 2. Add in 
+##### pip install requests spacy textblob
+##### python -m spacy download en_core_web_sm
+
+
 ## Rubric
 
 * (Question 1) Article html stored in separate file that is committed and pushed: 1 pt
