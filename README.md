@@ -2,6 +2,10 @@
 ### SANDRA RUIZ
 #### URL: https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html
 
+
+#### Introduction: This project will work with the url and pickle file for sentence and polarity analyisis. It will include histograms 
+#### to answer specific token and lemmas quesitons. I will add in one cell for count analysis I am interesed in.
+
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
 
@@ -33,6 +37,9 @@ print('All prereqs installed.')***Sucessful
 #### Question 2. Add in 
 ##### pip install requests spacy textblob
 ##### python -m spacy download en_core_web_sm
+
+#### For my Own Analysis :
+#### pip install pandas to env
 
 
 ## Rubric
