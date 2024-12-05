@@ -5,7 +5,7 @@
 
 #### Introduction: This project will work with the url and pickle file for sentiment and polarity analyisis for the URL about executed inmates in Texas.
 #### It will include histograms to answer specific token and lemmas quesitons. I will add in one cell at the very end for count analysis for questions I am interesed in
-#### such as what county had the most imates executed, what race had the higher count, average age etc.
+##### such as what county had the most imates executed, what race had the higher count, average age etc.
 
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
